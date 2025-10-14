@@ -2,7 +2,7 @@ import pandas as pd
 import streamlit as st
 import numpy as np
 import seaborn as sns
-import matplotlib.pyplot as plt
+#import matplotlib.pyplot as plt
 import joblib
 import warnings
 warnings.filterwarnings('ignore')
